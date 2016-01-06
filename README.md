@@ -7,5 +7,5 @@ brew tap homebrew/bundle
 
 install 
 ```
-brew brewdle
+brew bundle
 ```
