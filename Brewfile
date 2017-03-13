@@ -16,14 +16,13 @@ brew 'emacs', args: ['with-cocoa']
 brew 'htop-osx'
 brew 'markdown'
 brew 'mysql'
-brew 'newt', args: ['with-python']  # for byobu
 brew 'nginx'
 brew 'node'
 brew 'pandoc'
 brew 'postgresql'
-brew 'python' # for byobu
 brew 'ruby-build'
 brew 'rbenv'
+brew 'ssh-copy-id'
 brew 'sqlite'
 brew 'the_silver_searcher'
 brew 'tig'
