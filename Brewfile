@@ -1,36 +1,48 @@
-tap 'homebrew/bundle'
+### tap
+
 tap 'sanemat/font'
+
+
+### main
 
 brew 'autojump'
 brew 'byobu'
 brew 'git'
-brew 'git-flow'
 brew 'git-lfs'
-brew 'go'
-brew 'direnv'
-brew 'dnsmasq'
-brew 'editorconfig'
-brew 'htop-osx'
-brew 'markdown'
-brew 'mysql'
-brew 'nginx'
-brew 'node'
-brew 'pandoc'
-brew 'postgresql'
-brew 'r'
-brew 'ruby-build'
-brew 'rbenv'
-brew 'ssh-copy-id'
-brew 'sqlite'
+brew 'htop'
+brew 'lsyncd'
+# brew 'mysql'
+# brew 'nginx'
+# brew 'pandoc'
+# brew 'postgresql'
+brew 'rsync'
 brew 'the_silver_searcher'
 brew 'tig'
 brew 'trash'
-brew 'zsh'
 brew 'zsh-completions'
+
+
+### programming language
+
+brew 'clang-format'
+brew 'go'
+brew 'markdown'
+# brew 'node'
+# brew 'r'
+# brew 'ruby-build'
+# brew 'rbenv'
+brew 'pyenv'
+
+
+### font
 
 brew 'sanemat/font/ricty'
 
-cask 'chef/chef/chefdk'
+### cask
+
+# cask 'chef/chef/chefdk'
 cask 'emacs'
+# cask 'firefox'
 cask 'google-chrome'
 cask 'iterm2'
+cask 'vlc'
