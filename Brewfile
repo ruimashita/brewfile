@@ -15,10 +15,12 @@ brew 'lsyncd'
 # brew 'nginx'
 # brew 'pandoc'
 # brew 'postgresql'
+brew 'ripgrep'
 brew 'rsync'
 brew 'the_silver_searcher'
 brew 'tig'
 brew 'trash'
+brew 'tree'
 brew 'zsh-completions'
 
 
@@ -31,7 +33,8 @@ brew 'markdown'
 # brew 'r'
 # brew 'ruby-build'
 # brew 'rbenv'
-brew 'pyenv'
+# brew 'pyenv'
+brew 'uv'
 
 
 ### font
@@ -48,4 +51,5 @@ cask 'emacs'
 cask 'google-chrome'
 cask 'inkscape'
 cask 'iterm2'
+cask 'netron'
 cask 'vlc'
