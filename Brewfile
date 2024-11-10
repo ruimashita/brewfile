@@ -37,6 +37,8 @@ brew 'pyenv'
 ### font
 
 brew 'sanemat/font/ricty'
+cask 'font-hackgen'
+cask 'font-hackgen-nerd'
 
 ### cask
 
