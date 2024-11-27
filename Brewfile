@@ -47,7 +47,7 @@ cask 'font-hackgen-nerd'
 
 # cask 'chef/chef/chefdk'
 cask 'emacs'
-# cask 'firefox'
+cask 'firefox'
 cask 'google-chrome'
 cask 'iterm2'
 cask 'netron'
