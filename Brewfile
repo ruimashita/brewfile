@@ -39,13 +39,15 @@ brew 'uv'
 
 ### font
 
-brew 'sanemat/font/ricty'
+# brew 'sanemat/font/ricty'
 cask 'font-hackgen'
 cask 'font-hackgen-nerd'
 
 ### cask
 
 # cask 'chef/chef/chefdk'
+# cask 'ddpm'
+cask 'balenaetcher'
 cask 'emacs'
 cask 'firefox'
 cask 'google-chrome'
