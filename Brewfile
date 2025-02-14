@@ -7,6 +7,7 @@ tap 'sanemat/font'
 
 brew 'autojump'
 brew 'byobu'
+brew 'fswatch'
 brew 'git'
 brew 'git-lfs'
 brew 'htop'
