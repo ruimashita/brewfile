@@ -35,6 +35,7 @@ brew 'markdown'
 # brew 'rbenv'
 # brew 'pyenv'
 brew 'uv'
+brew 'pipx'
 
 
 ### font
