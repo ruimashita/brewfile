@@ -7,6 +7,7 @@ tap 'sanemat/font'
 
 brew 'autojump'
 brew 'byobu'
+brew 'coreutils' # for `ls` command
 brew 'fswatch'
 brew 'git'
 brew 'git-lfs'
