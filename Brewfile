@@ -35,6 +35,8 @@ brew 'node'
 # brew 'r'
 # brew 'ruby-build'
 # brew 'rbenv'
+
+## python
 # brew 'pyenv'
 brew 'uv'
 brew 'pipx'
