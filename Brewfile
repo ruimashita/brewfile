@@ -17,6 +17,7 @@ brew 'lsyncd'
 # brew 'nginx'
 # brew 'pandoc'
 # brew 'postgresql'
+brew 'mise'
 brew 'ripgrep'
 brew 'rsync'
 brew 'the_silver_searcher'
@@ -30,14 +31,16 @@ brew 'zsh-completions'
 
 brew 'clang-format'
 brew 'go'
-brew 'markdown'
-brew 'mise'
 brew 'node'
 # brew 'r'
 # brew 'ruby-build'
 # brew 'rbenv'
 
-## python
+#### markdown
+brew 'comrak'  # https://github.com/kivikakk/comrak
+brew 'markdown'
+
+#### python
 # brew 'pyenv'
 brew 'uv'
 brew 'pipx'
