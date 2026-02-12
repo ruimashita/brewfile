@@ -55,7 +55,7 @@ cask 'font-hackgen-nerd'
 ### cask
 
 # cask 'chef/chef/chefdk'
-# cask 'ddpm'
+cask 'aqua-voice'
 cask 'balenaetcher'
 cask 'chatgpt'
 cask 'codex'
