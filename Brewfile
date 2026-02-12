@@ -24,6 +24,7 @@ brew 'the_silver_searcher'
 brew 'tig'
 brew 'trash'
 brew 'tree'
+brew 'zellij'
 brew 'zsh-completions'
 
 
