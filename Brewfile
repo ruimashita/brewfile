@@ -27,6 +27,10 @@ brew 'tree'
 brew 'zellij'
 brew 'zsh-completions'
 
+#### for emacs vterm
+brew 'cmake'
+brew 'libtool'
+brew 'libvterm'
 
 ### programming language
 
