@@ -56,6 +56,8 @@ brew 'pipx'
 # brew 'sanemat/font/ricty'
 cask 'font-hackgen'
 cask 'font-hackgen-nerd'
+cask 'font-plemol-jp-nf'
+cask 'font-udev-gothic-nf'
 
 ### cask
 
