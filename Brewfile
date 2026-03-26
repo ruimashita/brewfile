@@ -9,6 +9,7 @@ brew 'autojump'
 brew 'byobu'
 brew 'coreutils' # for `ls` command
 brew 'fswatch'
+brew 'fzf'
 brew 'git'
 brew 'git-lfs'
 brew 'htop'
