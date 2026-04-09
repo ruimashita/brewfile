@@ -10,6 +10,7 @@ brew 'byobu'
 brew 'coreutils' # for `ls` command
 brew 'fswatch'
 brew 'fzf'
+brew 'gh'
 brew 'git'
 brew 'git-lfs'
 brew 'htop'
