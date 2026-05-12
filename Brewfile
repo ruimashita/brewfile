@@ -27,6 +27,7 @@ brew 'the_silver_searcher'
 brew 'tig'
 brew 'trash'
 brew 'tree'
+brew 'wireguard-tools'
 brew 'zsh-completions'
 
 #### for emacs vterm
