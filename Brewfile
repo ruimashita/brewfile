@@ -1,8 +1,3 @@
-### tap
-
-tap 'sanemat/font'
-
-
 ### main
 
 brew 'autojump'
@@ -55,6 +50,7 @@ brew 'pipx'
 
 ### font
 
+# tap 'sanemat/font'
 # brew 'sanemat/font/ricty'
 cask 'font-hackgen'
 cask 'font-hackgen-nerd'
