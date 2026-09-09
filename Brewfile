@@ -3,6 +3,7 @@
 brew 'autojump'
 brew 'byobu'
 brew 'coreutils' # for `ls` command
+brew 'findutils' # for `gfind` command
 brew 'fswatch'
 brew 'fzf'
 brew 'gh'
